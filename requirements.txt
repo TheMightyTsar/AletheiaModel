@@ -1,0 +1,5 @@
+flask
+fastapi
+tensorflow-cpu
+pillow
+numpy<2
